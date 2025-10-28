@@ -1,0 +1,11 @@
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search for a patron
+5. Delete a patron
+6. Exit
+Select an option: 5
+Enter the patron's ID you wish to delete: 800
+Patron 800 successfully deleted!
+
+Query finished in 0.003 seconds

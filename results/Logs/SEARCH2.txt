@@ -1,0 +1,74 @@
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search for a patron
+5. Delete a patron
+6. Exit
+Select an option: 4
+Enter the field to search by: Patron_ID
+Enter the value: 89462
+Enter 'exact' for exact matches, and 'like' for like matches. like
+
+4 patrons found.
+
+Query finished in 0.216 seconds
+
+
+
+Patron_ID: 89462
+Patron_Type_Definition: Senior
+Total_Checkouts: 161
+Total_Renewals: 34
+Age_Range: 75 years and over
+Home_Library_Definition: Marina
+Circulation_Active_Month: Dec
+Circulation_Active_Year: 2022
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2003
+Within_San_Francisco_County: 1
+
+
+
+Patron_ID: 189462
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 25 to 34 years
+Home_Library_Definition: Presidio
+Circulation_Active_Month: Jun
+Circulation_Active_Year: 2023
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2019
+Within_San_Francisco_County: 1
+
+
+
+Patron_ID: 289462
+Patron_Type_Definition: Adult
+Total_Checkouts: 16
+Total_Renewals: 6
+Age_Range: 25 to 34 years
+Home_Library_Definition: Marina
+Circulation_Active_Month: Oct
+Circulation_Active_Year: 2022
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2018
+Within_San_Francisco_County: 1
+
+
+
+Patron_ID: 389462
+Patron_Type_Definition: Teen
+Total_Checkouts: 1
+Total_Renewals: 2
+Age_Range: 10 to 19 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Mar
+Circulation_Active_Year: 2022
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2022
+Within_San_Francisco_County: 1

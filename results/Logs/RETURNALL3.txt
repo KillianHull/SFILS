@@ -1,0 +1,163 @@
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search for a patron
+5. Delete a patron
+6. Exit
+Select an option: 1
+
+450355 patrons found.
+
+Query finished in 1.595 seconds
+
+Patron_ID: 2
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Jul
+Circulation_Active_Year: 2023
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2019
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 3
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 55 to 59 years
+Home_Library_Definition: Western Addition
+Circulation_Active_Month: Mar
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2022
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 4
+Patron_Type_Definition: Welcome
+Total_Checkouts: 1
+Total_Renewals: 1
+Age_Range: 20 to 24 years
+Home_Library_Definition: Richmond
+Circulation_Active_Month: Aug
+Circulation_Active_Year: 2022
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2022
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 5
+Patron_Type_Definition: Senior
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 65 to 74 years
+Home_Library_Definition: Sunset
+Circulation_Active_Month: Mar
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Print
+Provided_Email_Address: 0
+Year_Patron_Registered: 2023
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 6
+Patron_Type_Definition: Senior
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 75 years and over
+Home_Library_Definition: Main
+Circulation_Active_Month: Apr
+Circulation_Active_Year: 2021
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2009
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 7
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 20 to 24 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Feb
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2023
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 8
+Patron_Type_Definition: Adult
+Total_Checkouts: 1
+Total_Renewals: 0
+Age_Range: 10 to 19 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Nov
+Circulation_Active_Year: 2022
+Notice_Preference_Definition: Phone
+Provided_Email_Address: 1
+Year_Patron_Registered: 2022
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 9
+Patron_Type_Definition: Adult
+Total_Checkouts: 4
+Total_Renewals: 4
+Age_Range: 25 to 34 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Feb
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2022
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 10
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 60 to 64 years
+Home_Library_Definition: Presidio
+Circulation_Active_Month: Mar
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2018
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 11
+Patron_Type_Definition: Adult
+Total_Checkouts: 24
+Total_Renewals: 53
+Age_Range: 35 to 44 years
+Home_Library_Definition: Portola
+Circulation_Active_Month: Nov
+Circulation_Active_Year: 2023
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2019
+Within_San_Francisco_County: 0
+
+
+
+Continue printing records? (yes/no): no

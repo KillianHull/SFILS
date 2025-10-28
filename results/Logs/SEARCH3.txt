@@ -1,0 +1,168 @@
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search for a patron
+5. Delete a patron
+6. Exit
+Select an option: 4
+Enter the field to search by: Age_Range
+Enter the value: 45 to 54 years
+Enter 'exact' for exact matches, and 'like' for like matches. exact
+
+49819 patrons found.
+
+Query finished in 0.289 seconds
+
+
+
+Patron_ID: 2
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Jul
+Circulation_Active_Year: 2023
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2019
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 13
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Mission Bay
+Circulation_Active_Month: Jan
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2019
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 19
+Patron_Type_Definition: Teacher Card
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Nov
+Circulation_Active_Year: 2021
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2018
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 25
+Patron_Type_Definition: Teacher Card
+Total_Checkouts: 628
+Total_Renewals: 82
+Age_Range: 45 to 54 years
+Home_Library_Definition: Mission
+Circulation_Active_Month: Mar
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2014
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 236
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Mar
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2018
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 312
+Patron_Type_Definition: Adult
+Total_Checkouts: 1
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Feb
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2017
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 323
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Dec
+Circulation_Active_Year: 2022
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2022
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 324
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Feb
+Circulation_Active_Year: 2023
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2017
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 328
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Jul
+Circulation_Active_Year: 2023
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2017
+Within_San_Francisco_County: 0
+
+
+
+Patron_ID: 332
+Patron_Type_Definition: Adult
+Total_Checkouts: 0
+Total_Renewals: 0
+Age_Range: 45 to 54 years
+Home_Library_Definition: Main
+Circulation_Active_Month: Mar
+Circulation_Active_Year: 2024
+Notice_Preference_Definition: Email
+Provided_Email_Address: 1
+Year_Patron_Registered: 2017
+Within_San_Francisco_County: 0
+
+
+
+Continue printing records? (yes/no): no

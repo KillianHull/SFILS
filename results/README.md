@@ -2,12 +2,14 @@
 
 This folder contains our findings from this database project.
 
-The findings include details about the library patrons. For example, how many from the age range 0 to 9 years used the library, how many of them were repeat patrons (can be found from total checkouts), how many renewed (can be found from total renewals).
+I found that there are 33,180 patrons between the ages 0 and 9. There are a total of 450,357 rows in the dataset (roughly, i've done a few inserts and deletes before checking this.) 
 
 # Performance Metrics
 
-This folder also contains the performance values.
+Performance Logs are saved for viewing in the Logs folder.
 
-Did we store the data in our database appropriately?
-
-This is meant to be a more manageable database with multiple tables. We are not simply dumping the whole Excel sheet into one giant MySQL table.
+CSV conversion time: 82.573 seconds
+Average execution time for returning all patrons: 1.587 seconds
+Average execution time for searching the PATRON table: 0.224 seconds
+Average execution time for deleting a patron: 0.003 seconds
+Average execution time for inserting a new patron: 0.0007 seconds
