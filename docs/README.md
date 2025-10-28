@@ -2,7 +2,7 @@
 
 To properly create the database and run the python app, make sure the MySQL server is already running on your PC, then follow the steps below:
 
-1. From command prompt, navigate into the scripts folder with the command 'cd <path-to-SFILS>\scripts'.
+1. From command prompt, navigate into the scripts folder with the command 'cd path-to-SFILS\scripts'.
 
 2. Make sure that the CSV file is named 'Library_Usage.csv' and that the file is also located in the scripts folder. Line 4 of csv_conversion.py can be updated to use the proper name and/or path of your CSV if it's in a different location.
 
