@@ -4,7 +4,7 @@ To properly create the database and run the python app, make sure the MySQL serv
 
 1. From command prompt, navigate into the scripts folder with the command 'cd path-to-SFILS\scripts'.
 
-2. Make sure that the CSV file is named 'Library_Usage.csv' and that the file is also located in the scripts folder. Line 4 of csv_conversion.py can be updated to use the proper name and/or path of your CSV if it's in a different location.
+2. Make sure that the CSV file is named 'Library_Usage.csv' and that the file is also located in the scripts folder. Line 5 of csv_conversion.py can be updated to use the proper name and/or path of your CSV if it's in a different location.
 
 3. Additionally, if your MySQL instance is configured with a different username and password than mine, it's necessary to update that in lines 20 and 21.
 
