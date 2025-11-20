@@ -1,0 +1,468 @@
+C:\Users\Killi\OneDrive\Documents\GitHub\SFILS\mongo>python MongoApp.py
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search patrons
+5. Delete patron
+6. Exit
+Select an option: 4
+
+Searchable fields:
+1. _id
+2. Patron Type Definition
+3. Total Checkouts
+4. Total Renewals
+5. Age Range
+6. Home Library Definition
+7. Circulation Active Month
+8. Circulation Active Year
+9. Notice Preference Definition
+10. Provided Email Address
+11. Year Patron Registered
+12. Within San Francisco County
+Select a field number: 2
+Enter value to search for: Teacher
+Enter 'exact' or 'like': like
+_id: 691e7ff8f4e559cfe2d76ca1
+Patron Type Definition: Teacher Card
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 0 to 9 years
+Home Library Definition: Main
+Circulation Active Month: None
+Circulation Active Year: None
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2023
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76ca2
+Patron Type Definition: Teacher Card
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 25 to 34 years
+Home Library Definition: Main
+Circulation Active Month: Jan
+Circulation Active Year: 2022
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2020
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76ca3
+Patron Type Definition: Teacher Card
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 35 to 44 years
+Home Library Definition: Main
+Circulation Active Month: May
+Circulation Active Year: 2021
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2020
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76ca4
+Patron Type Definition: Teacher Card
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 45 to 54 years
+Home Library Definition: Main
+Circulation Active Month: None
+Circulation Active Year: None
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2020
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76ca5
+Patron Type Definition: Teacher Card
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 45 to 54 years
+Home Library Definition: Main
+Circulation Active Month: Nov
+Circulation Active Year: 2021
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2018
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76ca6
+Patron Type Definition: Teacher Card
+Total Checkouts: 14
+Total Renewals: 42
+Age Range: 60 to 64 years
+Home Library Definition: Western Addition
+Circulation Active Month: May
+Circulation Active Year: 2022
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2019
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76ca7
+Patron Type Definition: Teacher Card
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 55 to 59 years
+Home Library Definition: Portola
+Circulation Active Month: Mar
+Circulation Active Year: 2022
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2020
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76ca8
+Patron Type Definition: Teacher Card
+Total Checkouts: 16
+Total Renewals: 0
+Age Range: 35 to 44 years
+Home Library Definition: Eureka Valley
+Circulation Active Month: Mar
+Circulation Active Year: 2022
+Notice Preference Definition: Print
+Provided Email Address: False
+Year Patron Registered: 2019
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76ca9
+Patron Type Definition: Teacher Card
+Total Checkouts: 20
+Total Renewals: 0
+Age Range: 25 to 34 years
+Home Library Definition: Eureka Valley
+Circulation Active Month: Mar
+Circulation Active Year: 2023
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2019
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76caa
+Patron Type Definition: Teacher Card
+Total Checkouts: 22
+Total Renewals: 10
+Age Range: 35 to 44 years
+Home Library Definition: Chinatown
+Circulation Active Month: Mar
+Circulation Active Year: 2024
+Notice Preference Definition: Phone
+Provided Email Address: False
+Year Patron Registered: 2022
+Within San Francisco County: False
+
+
+Continue printing records? (y/n): n
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search patrons
+5. Delete patron
+6. Exit
+Select an option: 1
+_id: 691e7ff8f4e559cfe2d76c93
+Patron Type Definition: Senior
+Total Checkouts: 5
+Total Renewals: 0
+Age Range: 75 years and over
+Home Library Definition: Main
+Circulation Active Month: Nov
+Circulation Active Year: 2022
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2015
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76c94
+Patron Type Definition: Adult
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 45 to 54 years
+Home Library Definition: Main
+Circulation Active Month: Jul
+Circulation Active Year: 2023
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2019
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76c95
+Patron Type Definition: Adult
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 55 to 59 years
+Home Library Definition: Western Addition
+Circulation Active Month: Mar
+Circulation Active Year: 2024
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2022
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76c96
+Patron Type Definition: Welcome
+Total Checkouts: 1
+Total Renewals: 1
+Age Range: 20 to 24 years
+Home Library Definition: Richmond
+Circulation Active Month: Aug
+Circulation Active Year: 2022
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2022
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76c97
+Patron Type Definition: Senior
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 65 to 74 years
+Home Library Definition: Sunset
+Circulation Active Month: Mar
+Circulation Active Year: 2024
+Notice Preference Definition: Print
+Provided Email Address: False
+Year Patron Registered: 2023
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76c98
+Patron Type Definition: Senior
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 75 years and over
+Home Library Definition: Main
+Circulation Active Month: Apr
+Circulation Active Year: 2021
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2009
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76c99
+Patron Type Definition: Adult
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 20 to 24 years
+Home Library Definition: Main
+Circulation Active Month: Feb
+Circulation Active Year: 2024
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2023
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76c9a
+Patron Type Definition: Adult
+Total Checkouts: 1
+Total Renewals: 0
+Age Range: 10 to 19 years
+Home Library Definition: Main
+Circulation Active Month: Nov
+Circulation Active Year: 2022
+Notice Preference Definition: Phone
+Provided Email Address: True
+Year Patron Registered: 2022
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76c9b
+Patron Type Definition: Adult
+Total Checkouts: 4
+Total Renewals: 4
+Age Range: 25 to 34 years
+Home Library Definition: Main
+Circulation Active Month: Feb
+Circulation Active Year: 2024
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2022
+Within San Francisco County: False
+
+
+_id: 691e7ff8f4e559cfe2d76c9c
+Patron Type Definition: Adult
+Total Checkouts: 0
+Total Renewals: 0
+Age Range: 60 to 64 years
+Home Library Definition: Presidio
+Circulation Active Month: Mar
+Circulation Active Year: 2024
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: 2018
+Within San Francisco County: False
+
+
+Continue printing records? (y/n): n
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search patrons
+5. Delete patron
+6. Exit
+Select an option: 2
+Enter Patron Type Definition (leave blank for null): Teacher Card
+Enter Total Checkouts (leave blank for null): 1867
+Enter Total Renewals (leave blank for null): 1
+Enter Age Range (leave blank for null): 25 to 34 years
+Enter Home Library Definition (leave blank for null): Main
+Enter Circulation Active Month (leave blank for null):
+Enter Circulation Active Year (leave blank for null): 2022
+Enter Notice Preference Definition (leave blank for null): Email
+Enter Provided Email Address (leave blank for null): True
+Enter Year Patron Registered (leave blank for null):
+Enter Within San Francisco County (leave blank for null): false
+
+New patron inserted with id: 691e8c76657ef894842104e5
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search patrons
+5. Delete patron
+6. Exit
+Select an option: 4
+
+Searchable fields:
+1. _id
+2. Patron Type Definition
+3. Total Checkouts
+4. Total Renewals
+5. Age Range
+6. Home Library Definition
+7. Circulation Active Month
+8. Circulation Active Year
+9. Notice Preference Definition
+10. Provided Email Address
+11. Year Patron Registered
+12. Within San Francisco County
+Select a field number: 1
+Enter value to search for: 691e8c76657ef894842104e5
+Enter 'exact' or 'like': exact
+_id: 691e8c76657ef894842104e5
+Patron Type Definition: Teacher Card
+Total Checkouts: 1867
+Total Renewals: 1
+Age Range: 25 to 34 years
+Home Library Definition: Main
+Circulation Active Month: None
+Circulation Active Year: 2022
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: None
+Within San Francisco County: False
+
+
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search patrons
+5. Delete patron
+6. Exit
+Select an option: 3
+Enter the id of the patron to update: 691e8c76657ef894842104e5
+Enter the field to update: Total Renewals
+Enter the new value: 2
+
+Updated patron 691e8c76657ef894842104e5: Total Renewals = 2
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search patrons
+5. Delete patron
+6. Exit
+Select an option: 4
+
+Searchable fields:
+1. _id
+2. Patron Type Definition
+3. Total Checkouts
+4. Total Renewals
+5. Age Range
+6. Home Library Definition
+7. Circulation Active Month
+8. Circulation Active Year
+9. Notice Preference Definition
+10. Provided Email Address
+11. Year Patron Registered
+12. Within San Francisco County
+Select a field number: 1
+Enter value to search for: 691e8c76657ef894842104e5
+Enter 'exact' or 'like': exact
+_id: 691e8c76657ef894842104e5
+Patron Type Definition: Teacher Card
+Total Checkouts: 1867
+Total Renewals: 2
+Age Range: 25 to 34 years
+Home Library Definition: Main
+Circulation Active Month: None
+Circulation Active Year: 2022
+Notice Preference Definition: Email
+Provided Email Address: True
+Year Patron Registered: None
+Within San Francisco County: False
+
+
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search patrons
+5. Delete patron
+6. Exit
+Select an option: 5
+
+Enter the id of the patron to delete: 691e8c76657ef894842104e5
+
+Patron with id: 691e8c76657ef894842104e5 successfully deleted.
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search patrons
+5. Delete patron
+6. Exit
+Select an option: 4
+
+Searchable fields:
+1. _id
+2. Patron Type Definition
+3. Total Checkouts
+4. Total Renewals
+5. Age Range
+6. Home Library Definition
+7. Circulation Active Month
+8. Circulation Active Year
+9. Notice Preference Definition
+10. Provided Email Address
+11. Year Patron Registered
+12. Within San Francisco County
+Select a field number: 1
+Enter value to search for: 691e8c76657ef894842104e5
+Enter 'exact' or 'like': exact
+
+No results found.
+1. View all patrons
+2. Add new patron
+3. Update patron info
+4. Search patrons
+5. Delete patron
+6. Exit
+Select an option: 6
+
+C:\Users\Killi\OneDrive\Documents\GitHub\SFILS\mongo>

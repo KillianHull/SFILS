@@ -13,3 +13,5 @@ Average execution time for returning all patrons: 1.587 seconds
 Average execution time for searching the PATRON table: 0.224 seconds
 Average execution time for deleting a patron: 0.003 seconds
 Average execution time for inserting a new patron: 0.0007 seconds
+
+A log showcasing each feature of the MongoDB app properly functioning is also present.

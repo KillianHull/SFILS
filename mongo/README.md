@@ -1,6 +1,4 @@
 # MISFILS
 MISFILS: The MongoDB-based Implementation for the San Francisco Integrated Library System.
 
-This folder contains the submission files for Assignment 2. The remaining folders contain the files from Assignment 1.
-
-Make sure to keep all your Assignment 2 files inside this folder to keep the rest of the folders free from clutter. That way, it will be easier to grade both Assignment 1 and Assignment 2.
+This folder contains the Python app that interfaces with MongoDB. Similarly to the MySQL app from assignment 1, mongodb_conversion.py must first be ran to properly setup the database before the app can be executed. Once the database is populated and you've ensured your local MongoDB instance is running, simply navigate to the mongo folder in your terminal and run 'python MongoApp.py'. More info about properly configuring mongodb_conversion.py is found in the Scripts folder. For a full, step-by-step setup guide, please see the README in the docs folder.
